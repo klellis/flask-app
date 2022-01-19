@@ -1,0 +1,23 @@
+   
+[
+  {
+    "name": "Biodiversity",
+    "description": "Colombia is listed as one of the world's megadiverse countries, hosting close to 10% of the planet's biodiversity. Worldwide, it ranks first in bird and orchid species diversity and second in plants, butterflies, freshwater fishes and amphibians.",
+    "image_source": "https://image.chitra.live/api/v1/wps/15daeb3/405ae129-ab36-4d93-a44b-e9fe24a3b7d6/6/rainforest-canopy-at-the-barron-580x358.jpg"
+  },
+  {
+    "name": "Coffee",
+    "description": "Colombian coffee is prized for its excellent flavour and aroma as almost all the coffee grown is of the arabica variety. Coffee packets that have been labelled as Colombian coffee may be a blend of various coffees from throughout Colombia or a single origin.",
+    "image_source": "https://www.comunicaffe.com/wp-content/uploads/2015/06/colombia-coffee-picker-exports.jpeg"
+  },
+  {
+    "name": "Carnivals",
+    "description": "Barranquilla's carnival is the biggest celebration of folklore in all Colombia and one of the world's largest carnivals, with more than a hundred years of tradition. The festivities run for four days and Colombians and visitors alike party in the streets in a colorful celebration of Colombian culture.",
+    "image_source": "https://www.eltiempo.com/files/image_640_428/uploads/2022/01/04/61d4c03d52f1d.jpeg"
+  },
+  {
+    "name": "Beaches",
+    "description": "One of the hottest up-and-coming destinations in South America, Colombia has two coastlines dotted with stunning beaches. The Caribbean coast is known for its picturesque beaches, clear turquoise waters, and great snorkeling. Many of these are clustered around Cartagena and Santa Marta.",
+    "image_source": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/9f/45/e4/palomino.jpg?w=500&h=300&s=1"
+  }
+]
